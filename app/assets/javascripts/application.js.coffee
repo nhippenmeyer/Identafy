@@ -13,6 +13,7 @@
 #//= require jquery
 #//= require jquery_ujs
 #//= require jquery.ui.effect-fade
+#//= require placeholders
 #// require turbolinks
 #//= require underscore
 #//= require backbone

@@ -26,7 +26,6 @@ body {
   }
   .body {
     .signup {
-      background: #eee;
       @include linear-gradient(#fafafa, #eee);
       text-align: center;
       padding: 20px;
